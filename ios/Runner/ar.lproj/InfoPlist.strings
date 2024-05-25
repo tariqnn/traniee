@@ -1,0 +1,2 @@
+NSCameraUsageDescription = "التطبيق يتطلب الوصول الى الكاميرا";
+NSPhotoLibraryUsageDescription = "التطبيق يتطلب الوصول الى الصور";

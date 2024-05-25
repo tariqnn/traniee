@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "workout_plan",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "plan_type",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "ex_type",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

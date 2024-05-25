@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "1062935928036",
+    "project_id": "log-in-for-coaches-and-th0sta",
+    "storage_bucket": "log-in-for-coaches-and-th0sta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062935928036:android:8d523b865a33c32bb820f1",
+        "android_client_info": {
+          "package_name": "com.mycompany.adminpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDlOwDuKTLYhVIqB5l8umFPYcMdkmAtMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062935928036:android:c713c5a75d0e313eb820f1",
+        "android_client_info": {
+          "package_name": "com.mycompany.gymracks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDlOwDuKTLYhVIqB5l8umFPYcMdkmAtMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062935928036:android:7fa79dae4a669bf3b820f1",
+        "android_client_info": {
+          "package_name": "com.mycompany.loginforcoachesandnutrionest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDlOwDuKTLYhVIqB5l8umFPYcMdkmAtMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062935928036:android:5da7026234ae577db820f1",
+        "android_client_info": {
+          "package_name": "com.mycompany.loginnutrionest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDlOwDuKTLYhVIqB5l8umFPYcMdkmAtMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
